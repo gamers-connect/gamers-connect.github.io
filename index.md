@@ -121,4 +121,4 @@ Once the core features are solid, here are some simple ideas to expand the proje
 
 ## Team
 
-Gamer Connect is designed, implemented, and maintained by [Kanta Saito](https://KantaS12.github.io), [Cam Moore](https://cammoore.github.io/), [Cam Moore](https://cammoore.github.io/), and [Cam Moore](https://cammoore.github.io/).
+Gamer Connect is designed, implemented, and maintained by [Kanta Saito](https://KantaS12.github.io/), [Reece Kakuni](https://bearsnuffle.github.io/), [Anlon Mao](https://anlmao125.github.io/), and [Jerome Demesillo](https://jeromedemesillo.github.io/).
