@@ -2,7 +2,7 @@
 title: Gamers Connect UH
 description: Connecting gamers at the University of Hawaiʻi. Find teammates, sessions, and local events.
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: pages-themes/cayman
 
 url: "https://gamers-connect.github.io" # NO trailing slash
 baseurl: ""
