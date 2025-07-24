@@ -33,23 +33,23 @@ The Gamers Connect application is deployed and accessible at:
 The following screenshots showcase the current state of the Gamers Connect application:
 
 ### Landing Page
-![Landing Page](./screenshots/landingPage.png)
+![Landing Page](/landingPage.png)
 *The welcoming landing page that introduces users to Gamers Connect and its features*
 
 ### User Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](/dashboard.png)
 *Personalized dashboard showing recommended players, gaming sessions, and upcoming events*
 
 ### Find Players Page
-![Find Players](./screenshots/findPlayers.png)
+![Find Players](/findPlayers.png)
 *Search and filter interface for discovering fellow UH gamers with similar interests*
 
 ### Events Page
-![Events](./screenshots/events.png)
+![Events](/events.png)
 *Browse and discover local gaming tournaments, meetups, and community events*
 
 ### User Profile
-![Profile](./screenshots/profile.png)
+![Profile](/profile.png)
 *User profile management for gaming preferences, platforms, and contact information*
 
 ## Milestones
