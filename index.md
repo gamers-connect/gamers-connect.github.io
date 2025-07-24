@@ -112,13 +112,12 @@ This section provides information for developers wishing to use this code base a
 git clone https://github.com/gamers-connect/[repository-name]
 cd [repository-name]
 
+# Navigate to the app directory
+cd gamers-connect
+
 # Install dependencies
 npm install
 npm install lucide-react 
-npm install -D tailwindcss postcss autoprefixer
-
-# Initialize Tailwind (if needed)
-npx tailwindcss init -p
 
 # Run the development server
 npm run dev
@@ -127,7 +126,7 @@ npm run dev
 ### Technology Stack
 
 * **Framework:** Next.js 14+ with TypeScript
-* **Styling:** Tailwind CSS
+* **Styling:** CSS
 * **Icons:** Lucide React
 * **Deployment:** Vercel
 
