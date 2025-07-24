@@ -30,22 +30,27 @@ The Gamers Connect application is deployed and accessible at:
 
 ## Screenshots
 
-*Note: Screenshots will be added as the application development progresses to show the current state of the project.*
+The following screenshots showcase the current state of the Gamers Connect application:
 
 ### Landing Page
-*[Screenshot to be added]*
+![Landing Page](./screenshots/landingPage.png)
+*The welcoming landing page that introduces users to Gamers Connect and its features*
 
 ### User Dashboard
-*[Screenshot to be added]*
+![Dashboard](./screenshots/dashboard.png)
+*Personalized dashboard showing recommended players, gaming sessions, and upcoming events*
 
 ### Find Players Page
-*[Screenshot to be added]*
+![Find Players](./screenshots/findPlayers.png)
+*Search and filter interface for discovering fellow UH gamers with similar interests*
 
 ### Events Page
-*[Screenshot to be added]*
+![Events](./screenshots/events.png)
+*Browse and discover local gaming tournaments, meetups, and community events*
 
 ### User Profile
-*[Screenshot to be added]*
+![Profile](./screenshots/profile.png)
+*User profile management for gaming preferences, platforms, and contact information*
 
 ## Milestones
 
@@ -126,9 +131,17 @@ npm run dev
 ### Technology Stack
 
 * **Framework:** Next.js 14+ with TypeScript
-* **Styling:** CSS
+* **Styling:** CSS with Glassmorphism Design
 * **Icons:** Lucide React
 * **Deployment:** Vercel
+
+### Design System
+
+The application features a modern dark gradient theme with glassmorphism effects:
+* **Color Scheme:** Dark gradient backgrounds with semi-transparent elements
+* **Typography:** Clean, readable fonts with proper contrast
+* **Interactive Elements:** Smooth hover effects and transitions
+* **Layout:** Responsive grid systems and flexible containers
 
 ### Approach
 
