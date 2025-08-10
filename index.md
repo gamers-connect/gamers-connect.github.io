@@ -132,6 +132,16 @@ Individual pages for popular games showing a list of active players for that gam
 
 **Discovering a Campus Tournament:** A user logs into Gamers Connect. Their User Dashboard highlights an "Upcoming Local Events" section. They see a "Valorant Tournament at the University of Hawaii iLab" listed. The user clicks on the tournament, views the details like date, time, and the registration link, and decides to attend.
 
+## Community Feedback
+
+To evaluate Gamers Connect’s usability, features, and overall user experience, five community members were invited to test the application.
+
+Overall, participants responded positively, describing the interface as **clean, intuitive, and visually appealing**. The **presence indicators** and **player-finding functionality** were highlighted as particularly useful for quickly identifying and connecting with other gamers. Performance during testing was reported as **smooth and responsive**, even when navigating between multiple features.
+
+Some testers suggested **clearer onboarding instructions** to help first-time users quickly understand how to get started, as well as **more customization options for user profiles** to better express individual gaming styles. These suggestions have been noted for future development.
+
+In summary, the feedback reinforced the platform’s potential to become a regular part of the UH gaming community’s activities. Testers expressed interest in using Gamers Connect once additional features—such as enhanced onboarding, richer customization, and expanded event options—are implemented.
+
 ## Developer Guide
 
 This section provides information for developers wishing to use this code base as a basis for their own development tasks.
